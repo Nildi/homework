@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/Nildi/homework/blob/main/smon_hw4.1.png)
 
-<h3> Задание 2 </h3>h
+<h3> Задание 2 </h3>
 
 ![alt text](https://github.com/Nildi/homework/blob/main/smon_hw4.2.png)
 
