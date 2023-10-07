@@ -12,6 +12,9 @@
 ![alt text](https://github.com/Nildi/homework/blob/main/sflt_hw2.3.png)
 ![alt text](https://github.com/Nildi/homework/blob/main/sflt_hw2.4.png)
 ![Конфигурационный файл](https://github.com/Nildi/homework/blob/main/keepalived.conf)
+
+
+
 #!/bin/bash
 if [[ $(netstat -tuln | grep LISTEN | grep :80) ]] && [[ -f /var/www/html/index.nginx-debian.html ]]; then
         exit 0
